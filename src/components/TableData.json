@@ -1,0 +1,13 @@
+{
+  "column": [
+    {
+      "name": "Name"
+    },
+    {
+      "name": "Age"
+    },
+    {
+      "name": "Designation"
+    }
+  ]
+}
